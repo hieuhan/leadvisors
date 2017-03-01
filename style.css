@@ -1,0 +1,112 @@
+/*
+ * Theme Name: Leadvisors 2017
+ * Description: Theme được thiết kế cho website http://leadvisors.com
+ * Theme URI: http://leadvisors.com
+ * Version: 1.0
+ * Author: Leadvisors Teams
+ * Author URI: http://leadvisors.com
+ * Tags: leadvisors, post format
+ * Textdomain: leadvisors
+ * Languages Folder: /languages
+*/
+
+.nav{
+    padding-right: 10px;
+    margin-top: 5px;
+}
+.nav li{
+    width: auto;
+    margin: 5px 10px 0;
+    position: relative;
+    display: inline-block;
+}
+.nav > li > a{
+    position: relative;
+    z-index: 10000;
+}
+.nav .nav-icon{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    margin: 0 auto;
+    display: block;
+}
+.nav .nav-icon img{
+    width: 40px;
+}
+.nav .nav-text{
+    position: relative;
+    top: 40px;
+    z-index: 100;
+    color: #646464;
+}
+.nav > li:hover > a .nav-text, .nav li.current-menu-item .nav-text{
+    color: #2f9230;
+    border-bottom: 2px solid #2f9230;
+}
+.nav .sub-menu{
+    position: absolute;
+    top: auto;
+    left: 50%;
+    z-index: 9999;
+    width: 200px;
+    padding-top: 58px;
+    margin-left: -100px;
+    background-color: transparent;
+    display: none;
+}
+.nav .sub-menu li{
+    float: none;
+    width: 100%;
+    padding: 0 5px;
+    /*border: 1px solid #2f9230;*/
+    -webkit-border-radius: 15px 0;
+    border-radius: 15px 0;
+    margin: 1px 0;
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    color: #646464;
+}
+.nav .sub-menu li:first-of-type{
+    position: relative;
+    /*border-top: 1px solid #2f9230;*/
+    /* -webkit-border-radius: 20px 0 0;
+    border-radius: 20px 0 0; */
+}
+.nav .sub-menu li:first-of-type:before{
+    display: none;
+    position: absolute;
+    top: -10px;
+    left: 50%;
+    content: '';
+    z-index: 100;
+    width: 0;
+    height: 0;
+    border-left: 9px solid transparent;
+    border-right: 9px solid transparent;
+    border-bottom: 10px solid #2f9230;
+    margin-left: -9px;
+}
+.nav .sub-menu li:last-of-type{
+    /*border-bottom: 1px solid #2f9230;*/
+    /* -webkit-border-radius: 0 0 20px;
+    border-radius: 0 0 20px; */
+}
+.nav .sub-menu li a{
+    width: 100%;
+    padding: 8px 10px;
+    /*border-bottom: 1px solid #d6d6d6;*/
+    display: block;
+}
+.nav .sub-menu li:last-of-type a{
+    border-bottom: 0;
+}
+.nav .sub-menu li a:hover{
+    color: #2f9230;
+}
+.nav > li:hover .sub-menu{
+    display: block;
+}
+
+
+

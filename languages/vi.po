@@ -1,0 +1,405 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.8.12\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: vi_VN\n"
+
+#. Text in function
+#: leadvisors/post-types/location.php:1 leadvisors/post-types/regions.php:1
+#: leadvisors/post-types/sector.php:1
+msgid "Add New"
+msgstr "Thêm mới"
+
+#. Text in function
+#: leadvisors/post-types/location.php:1
+msgid "Add New Location"
+msgstr "Thêm mới vị trí"
+
+#. Text in function
+#: leadvisors/post-types/regions.php:1
+msgid "Add New Regions"
+msgstr "Thêm mới khu vực"
+
+#. Text in function
+#: leadvisors/post-types/sector.php:1
+msgid "Add New Sector"
+msgstr "Thêm mới bộ phận"
+
+#. Text in echo
+#: leadvisors/content-people.php:207
+msgid "Al"
+msgstr ""
+
+#. Text in function
+#: leadvisors/post-types/location.php:1
+msgid "All Location"
+msgstr "Tất cả vị trí"
+
+#. Text in echo
+#: leadvisors/content-people-avisors.php:169 leadvisors/content-people.php:173
+#: leadvisors/content-people.php:293 leadvisors/content-search-people.php:163
+#: leadvisors/content-search-people.php:232
+msgid "All Locations"
+msgstr "Tất cả vị trí"
+
+#. Text in echo
+#: leadvisors/content-people-avisors.php:199 leadvisors/content-people.php:332
+#: leadvisors/content-search-people.php:177
+#: leadvisors/content-search-people.php:257 leadvisors/post-types/regions.php:1
+#: leadvisors/taxonomy-portfolio_categories.php:350
+msgid "All Regions"
+msgstr "Tất cả khu vực"
+
+#. Text in function
+#: leadvisors/post-types/sector.php:1
+msgid "All Sector"
+msgstr "Tất cả bộ phận"
+
+#. Text in echo
+#: leadvisors/content-people-avisors.php:229 leadvisors/content-people.php:235
+#: leadvisors/content-people.php:367 leadvisors/content-search-people.php:193
+#: leadvisors/content-search-people.php:283
+#: leadvisors/taxonomy-portfolio_categories.php:378
+msgid "All Sectors"
+msgstr "Tất cả bộ phận"
+
+#. Text in echo
+#: leadvisors/functions.php:313
+msgid "Avisors"
+msgstr "Cố vấn"
+
+#. Text in function
+#: leadvisors/functions.php:367
+msgid "Blue"
+msgstr ""
+
+#. Text in echo
+#: leadvisors/single-people.php:110
+msgid "Board Affiliations"
+msgstr ""
+
+#. Text in echo
+#: leadvisors/single-portfolio.php:84
+msgid "Board Members"
+msgstr ""
+
+#. Text in function
+#: leadvisors/functions.php:367
+msgid "Chevron"
+msgstr "Chức vụ"
+
+#. Text in function
+#: leadvisors/functions.php:367
+msgid "Color Title"
+msgstr ""
+
+#. Text in echo
+#: leadvisors/footer.php:45 leadvisors/footer.php:61
+msgid "Copyright &copy; 2017 Leadvisors Capital Management. All Rights Reserved."
+msgstr "Copyright &copy; 2017 Bản quyền thuộc về Leadvisors Capital Management. Mọi quyền đều được bảo hộ."
+
+#. Text in function
+#: leadvisors/post-types/location.php:1
+msgid "Edit Location"
+msgstr "Sửa vị trí"
+
+#. Text in function
+#: leadvisors/post-types/regions.php:1
+msgid "Edit Regions"
+msgstr "Sửa khu vực"
+
+#. Text in function
+#: leadvisors/post-types/sector.php:1
+msgid "Edit Sector"
+msgstr "Sửa bộ phận"
+
+#. Text in function
+#: leadvisors/functions.php:367 leadvisors/single-people.php:73
+#: leadvisors/single-people.php:287
+msgid "Education"
+msgstr "Trình độ giáo dục"
+
+#. Text in echo
+#: leadvisors/taxonomy-portfolio_categories.php:342
+msgid "Filter By Region"
+msgstr "Lọc theo khu vực"
+
+#. Text in echo
+#: leadvisors/taxonomy-portfolio_categories.php:370
+msgid "Filter By Sector"
+msgstr "Lọc theo bộ phận"
+
+#. Text in echo
+#: leadvisors/content-people-avisors.php:107 leadvisors/content-people.php:109
+#: leadvisors/content-people.php:283 leadvisors/content-search-people.php:109
+#: leadvisors/content-search-people.php:225
+msgid "Filter by Location"
+msgstr "Lọc theo vị trí"
+
+#. Text in echo
+#: leadvisors/content-people-avisors.php:123 leadvisors/content-people.php:125
+#: leadvisors/content-people.php:322 leadvisors/content-search-people.php:125
+#: leadvisors/content-search-people.php:250
+#: leadvisors/taxonomy-portfolio_categories.php:122
+msgid "Filter by Region"
+msgstr "Lọc theo khu vực"
+
+#. Text in echo
+#: leadvisors/content-people-avisors.php:139 leadvisors/content-people.php:141
+#: leadvisors/content-people.php:359 leadvisors/content-search-people.php:141
+#: leadvisors/content-search-people.php:276
+#: leadvisors/taxonomy-portfolio_categories.php:138
+msgid "Filter by Sector"
+msgstr "Lọc theo bộ phận"
+
+#. Text in function
+#: leadvisors/functions.php:1
+msgid "Footer Menu"
+msgstr ""
+
+#. Text in echo
+#: leadvisors/single-portfolio.php:84
+msgid "General Atlantic"
+msgstr ""
+
+#. Text in function
+#: leadvisors/functions.php:367
+msgid "Headquarters"
+msgstr "Trụ sở chính"
+
+#. Text in echo
+#: leadvisors/single-portfolio.php:25
+msgid "Headquarters:"
+msgstr "Trụ sở chính:"
+
+#. Text in echo
+#: leadvisors/single-people.php:247
+msgid "Info"
+msgstr "Thông tin"
+
+#. Text in echo
+#: leadvisors/taxonomy-portfolio_categories.php:106
+msgid "Investments"
+msgstr "Đầu tư"
+
+#. Text in function
+#: leadvisors/post-types/location.php:1
+msgid "Leadvisors Location"
+msgstr ""
+
+#. Text in function
+#: leadvisors/post-types/regions.php:1
+msgid "Leadvisors Regions"
+msgstr ""
+
+#. Text in function
+#: leadvisors/post-types/sector.php:1
+msgid "Leadvisors Sector"
+msgstr ""
+
+#. Text in echo
+#: leadvisors/content-people-avisors.php:323 leadvisors/functions.php:367
+#: leadvisors/post-types/location.php:1 leadvisors/single-people.php:67
+#: leadvisors/single-people.php:253
+msgid "Location"
+msgstr "Vị trí"
+
+#. Text in function
+#: leadvisors/functions.php:1
+msgid "Main Sidebar"
+msgstr ""
+
+#. Text in function
+#: leadvisors/functions.php:367
+msgid "Media Highlights"
+msgstr "Media nổi bật"
+
+#. Text in function
+#: leadvisors/functions.php:367
+msgid "More information"
+msgstr "Thông tin thêm"
+
+#. Text in echo
+#: leadvisors/content-people-avisors.php:305
+msgid "Name"
+msgstr "Tên"
+
+#. Text in function
+#: leadvisors/post-types/location.php:1
+msgid "New Location"
+msgstr "Vị trí mới"
+
+#. Text in function
+#: leadvisors/post-types/regions.php:1
+msgid "New Regions"
+msgstr "Khu vực mới"
+
+#. Text in function
+#: leadvisors/post-types/sector.php:1
+msgid "New Sector"
+msgstr "Bộ phận mới"
+
+#. Text in function
+#: leadvisors/search.php:67
+msgid "Next"
+msgstr "Tiếp"
+
+#. Text in echo
+#: leadvisors/functions.php:317 leadvisors/functions.php:360
+#: leadvisors/functions.php:367
+msgid "No"
+msgstr "Không"
+
+#. Text in function
+#: leadvisors/post-types/location.php:1 leadvisors/post-types/regions.php:1
+#: leadvisors/post-types/sector.php:1
+msgid "No Post Found"
+msgstr "Không tìm thấy bài post"
+
+#. Text in function
+#: leadvisors/post-types/location.php:1 leadvisors/post-types/regions.php:1
+#: leadvisors/post-types/sector.php:1
+msgid "No Post Found In Trash"
+msgstr "Trong thùng rác không có bài post nào"
+
+#. Text in echo
+#: leadvisors/search.php:60
+msgid "Not Found"
+msgstr "Dữ liệu đang cập nhật"
+
+#. Text in function
+#: leadvisors/content-people-avisors.php:361 leadvisors/content-people.php:494
+#: leadvisors/content-search-people.php:492
+#: leadvisors/taxonomy-portfolio_categories.php:492
+#: leadvisors/taxonomy-portfolio_categories.php:564
+msgid "Not Found..."
+msgstr "Dữ liệu đang cập nhật..."
+
+#. Text in echo
+#: leadvisors/single-people.php:3
+msgid "People"
+msgstr "Nhân sự"
+
+#. Text in echo
+#: leadvisors/single-portfolio.php:3
+msgid "Portfolio"
+msgstr "Danh mục đầu tư"
+
+#. Text in function
+#: leadvisors/functions.php:1
+msgid "Primary Menu"
+msgstr "Menu chính"
+
+#. Text in echo
+#: leadvisors/index.php:59 leadvisors/index.php:115
+msgid "Read more"
+msgstr "Xem tiếp"
+
+#. Text in echo
+#: leadvisors/content-people-avisors.php:317
+msgid "Region"
+msgstr "Khu vực"
+
+#. Text in echo
+#: leadvisors/single-portfolio.php:21
+msgid "Region:"
+msgstr "Khu vực:"
+
+#. Text in function
+#: leadvisors/functions.php:367 leadvisors/post-types/regions.php:1
+#: leadvisors/single-people.php:261
+msgid "Regions"
+msgstr "Khu vực"
+
+#. Text in function
+#: leadvisors/post-types/location.php:1 leadvisors/post-types/regions.php:1
+#: leadvisors/post-types/sector.php:1
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#. Text in echo
+#: leadvisors/search.php:31 leadvisors/search.php:37
+msgid "Search Results"
+msgstr "Kết quả tìm kiếm"
+
+#. Text in echo
+#: leadvisors/content-people.php:391 leadvisors/content-search-people.php:303
+#: leadvisors/taxonomy-portfolio_categories.php:400
+msgid "Search by name/title"
+msgstr "Tìm theo tên / tiêu đề"
+
+#. Text in echo
+#: leadvisors/header.php:33
+msgid "Search..."
+msgstr "Tìm kiếm..."
+
+#. Text in function
+#: leadvisors/functions.php:367 leadvisors/post-types/sector.php:1
+msgid "Sector"
+msgstr "Bộ phận"
+
+#. Text in echo
+#: leadvisors/single-portfolio.php:29
+msgid "Sector:"
+msgstr "Bộ phận:"
+
+#. Text in echo
+#: leadvisors/single-people.php:275
+msgid "Sectors"
+msgstr "Bộ phận"
+
+#. Text in echo
+#: leadvisors/search.php:43
+msgid "Showing results for"
+msgstr "Hiển thị kết quả"
+
+#. Text in echo
+#: leadvisors/content-search-people.php:91
+msgid "Teams"
+msgstr "Nhóm"
+
+#. Text in echo
+#: leadvisors/content-people-avisors.php:311
+msgid "Title"
+msgstr "Tiêu đề"
+
+#. Text in function
+#: leadvisors/post-types/location.php:1 leadvisors/post-types/regions.php:1
+#: leadvisors/post-types/sector.php:1
+msgid "View"
+msgstr "Xem"
+
+#. Text in function
+#: leadvisors/post-types/location.php:1 leadvisors/post-types/regions.php:1
+#: leadvisors/post-types/sector.php:1
+msgid "View Details"
+msgstr "Xem chi tiết"
+
+#. Text in echo
+#: leadvisors/single-portfolio.php:33
+msgid "Visit Site"
+msgstr "Truy cập trang web"
+
+#. Text in function
+#: leadvisors/functions.php:367
+msgid "Website Url"
+msgstr "Địa chỉ website"
+
+#. Text in function
+#: leadvisors/functions.php:367
+msgid "White"
+msgstr ""
+
+#. Text in echo
+#: leadvisors/functions.php:319 leadvisors/functions.php:362
+#: leadvisors/functions.php:367
+msgid "Yes"
+msgstr "Có"
